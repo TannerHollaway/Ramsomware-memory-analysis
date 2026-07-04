@@ -53,6 +53,7 @@ Ran `vol.py -f infected.vmem --profile=Win7SP1x86 filescan | grep -i .eky` to lo
 ---
 
 ## Question Walkthrough
+![Questions](images/questions.png)
 
 **Q1: Run “vol.py -f infected.vmem --profile=Win7SP1x86 psscan” that will list all processes. What is the name of the suspicious process?**
 **Answer:** `or4qtckT.exe`
